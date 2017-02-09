@@ -27,9 +27,9 @@ Para executar em diversos computadores, deve-se alterar os arquivos hostfile_cli
 
 Enquanto estiver conectado, o cliente pode enviar comandos para o servidor, os quais serão intermediados pelo proxy. Os comandos implementados até o momento são:
 
-add <NOME> : Adiciona um nome no arquivo de registro "records" mantido pelo servidor
-shutdown : Desliga o proxy e o mensageiro do servidor
-quit: Encerra o aplicativo cliente
+* add [NOME] : Adiciona um nome no arquivo de registro "records" mantido pelo servidor
+* shutdown : Desliga o proxy e o mensageiro do servidor
+* quit: Encerra o aplicativo cliente
 
 # Proxy
 
